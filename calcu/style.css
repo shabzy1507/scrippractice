@@ -1,0 +1,45 @@
+/* body {
+  text-align: center;
+}
+#cnt {
+  font-size: 100px;
+}
+#vw {
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+button {
+  border: none;
+  background-color: darkred;
+  color: #fff;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 12px;
+  width: 190px;
+}
+#sv {
+  background-color: darkgreen;
+}
+button:hover {
+  opacity: 0.9;
+} */
+body {
+  text-align: center;
+  padding: 10px;
+  font-weight: bolder;
+}
+button {
+  padding: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 900;
+}
+#bm {
+  margin: 15px;
+}
+span {
+  border-bottom: 2px solid darkgray;
+  margin: 15px 0;
+  display: inline-block;
+  font-size: 20px;
+}
